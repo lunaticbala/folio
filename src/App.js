@@ -19,6 +19,7 @@ function App() {
                 <a className="nav-link active" href="#portfolio">Portfolio</a>
                 <a className="nav-link active" href="#internship">Internship</a>
                 <a className="nav-link active" href="#profiles">Profiles</a>
+                <a className="nav-link active" href="https://drive.google.com/file/d/1CrnCPwePayk4hVcPQlZFlARR4_i5_pO4/view">Resume</a>
               </div>
             </div>
           </div>
@@ -96,7 +97,7 @@ function App() {
             </div>
             <div className="col-md-4 shadow-lg">
               <div className="container-item bg-light p-5 rounded">
-              <a href="https://github.com/MrBlueBird2/portfolio-react" className="text-decoration-none">
+              <a href="https://github.com/lunaticbala/folio" className="text-decoration-none">
                 <h4 className="text-dark fw-bold">
                   portfolio-react
                 </h4>
@@ -108,55 +109,18 @@ function App() {
             </div>
             <div className="col-md-4 shadow-lg">
               <div className="container-item bg-light p-5 rounded">
-                <a href="https://github.com/MrBlueBird2/MrBlueBird2" className="text-decoration-none">
+                <a href="https://agitated-minsky-f9fe13.netlify.app" className="text-decoration-none">
                 <h4 className="text-dark fw-bold">
                   lunaticbala
                 </h4>
                 </a>
                 <h5 className="text-muted" style={{marginTop: '10px', lineHeight: '36px'}}>
-                Amazing README.md Profile for my Github Profile 
+                Amazing Movie website which shows the list of movies
                 </h5>
               </div>
             </div>
           </div>
-          <div className="row row-1" style={{marginTop: '20px'}}>
-            <div className="col-md-4 shadow-lg">
-              <div className="container-item bg-light p-5 rounded">
-              <a href="https://github.com/MrBlueBird2/to-do-list-flask" className="text-decoration-none">
-                <h4 className="text-dark fw-bold">
-                  to-do-list-flask
-                </h4>
-                </a>
-                <h5 className="text-muted" style={{marginTop: '10px', lineHeight: '36px'}}>
-                I to do, To do list Web Application, Database,react, HTML and Bootstrap
-                </h5>
-              </div>
-            </div>
-            <div className="col-md-4 shadow-lg">
-              <div className="container-item bg-light p-5 rounded">
-              <a href="https://github.com/MrBlueBird2/credio-home-page" className="text-decoration-none">
-                <h4 className="text-dark fw-bold">
-                  credio-home-page
-                </h4>
-                </a>
-                <h5 className="text-muted" style={{marginTop: '10px', lineHeight: '36px'}}>
-                A New Homepage for Crediometer Company. Built with Bootstrap HTML CSS and JS.
-                </h5>
-              </div>
-            </div>
-            <div className="col-md-4 shadow-lg">
-              <div className="container-item bg-light p-5 rounded">
-                <a href="https://github.com/MrBlueBird2/jarvis-in-python" className="text-decoration-none">
-                <h4 className="text-dark fw-bold">
-                  jarvis-in-python
-                </h4>
-                </a>
-                <h5 className="text-muted" style={{marginTop: '10px', lineHeight: '36px'}}>
-                Jarvis can perform tasks like Talking, Opening Windows, and many more, but, My Jarvis is totally different...
-                </h5>
-              </div>
-            </div>
-          </div>
+         
           <br />
           <br />
           </div>
@@ -168,14 +132,14 @@ function App() {
             Internship
           </h2>
           <h5 className="py-2 p-5" style={{maxWidth: '100%', width: '700px', lineHeight: '34px'}}>
-            Here is a list of all the Internships, I have done between the year 2020 - 2021
+            Here is a list of all the Internships, I have done between the year 2017 - 2021
           </h5>
           <h3 className="py-2 p-5 fw-bold">
-            Crediometer
+            Lenovo
           </h3>
           <h5 className="text-muted py-0 p-5" style={{maxWidth: '100%', width: '600px', lineHeight: '34px'}}>
-            Crediometer is a Startup Company in Nigeria. I'm working for Crediometer from 18 Septmeber and this Internship
-            will end at 18 December
+           Lenovo is a MNC Company. I worked for Lenovo for 2 months as a  Internship period
+            
           </h5>
         </div>
       <br/>
@@ -188,38 +152,24 @@ function App() {
           Profiles
         </h2>
         <h5 className="text-muted py-0 p-5" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
-          Here are all my Open Source Profiles, i.e. GitHub, Linkedin, Competitive Programming Websites Profiles, like AtCoder, CodeChef, and many more.
+          Here are all my Open Source Profiles, i.e. GitHub, Linkedin, Competitive Programming Websites Profiles and many more.
         </h5>
+       
+        
+        
         <h3 class="text-light fw-bold py-3 p-5">
-          CodeChef - mrbluebird2
-        </h3>
-        <h5 className="text-muted p-5 py-0" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
-          CodeChef is a competitive programming website, CodeChef Holds 3 Programming Contest every moth, Long Challenge, Cook off, and Lunch Time
-        </h5>
-        <h3 class="text-light fw-bold py-3 p-5">
-          AtCoder - mrbluebird2
-        </h3>
-        <h5 className="text-muted p-5 py-0" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
-          AtCoder is a programming contest website based in Japan. There are three types of official contests in AtCoder: AtCoder Grand Contest (AGC), AtCoder Beginner Contest (ABC), and one more.
-        </h5>
-        <h3 class="text-light fw-bold py-3 p-5">
-          GitHub - mrbluebird2
+          GitHub - lunaticbala
         </h3>
         <h5 className="text-muted p-5 py-0" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
           GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features
         </h5>
         <h3 class="text-light fw-bold py-3 p-5">
-          Linkedin - Badri Vishal Mani Tripathi
+          Linkedin - balaji velu
         </h3>
         <h5 className="text-muted p-5 py-0" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
           LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003, the platform is primarily used for professional networking and career development, and allows job seekers to post their CVs and employers to post jobs.
         </h5>
-        <h3 class="text-light fw-bold py-3 p-5">
-          Codeforces - Mr_BlueBird
-        </h3>
-        <h5 className="text-muted p-5 py-0" style={{marginTop: '-10px', maxWidth: '100%', width: '900px', lineHeight: '33px'}}>
-        Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov.
-        </h5>
+       
         <br/>
       </section>
     </body>
