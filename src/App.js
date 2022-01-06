@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    
     <body className="bg-image">
       <div className="d-flex justify-content-center">
           <nav className="navbar navbar-expand-lg navbar-dark bg-transparent p-4">
@@ -19,7 +19,7 @@ function App() {
                 <a className="nav-link active" href="#portfolio">Portfolio</a>
                 <a className="nav-link active" href="#internship">Internship</a>
                 <a className="nav-link active" href="#profiles">Profiles</a>
-                <a className="nav-link active" href="https://drive.google.com/file/d/1CrnCPwePayk4hVcPQlZFlARR4_i5_pO4/view">Resume</a>
+                <a className="nav-link active" href="https://drive.google.com/file/d/1G5K-Dl8RTXqjOVWqzDLj8x3pcdyfKy70/view">Resume</a>
               </div>
             </div>
           </div>
